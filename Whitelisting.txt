@@ -5,16 +5,6 @@
 ### # 这也是一行注释。:只是一条注释；
 #### /REGEX/:阻止访问与指定的正则表达式匹配的域名。
 
-
-#拦截：
-||kw87.me^
-||kw95.me^
-||lbtvydiyzb.com/slf-zjslf3368^
-||xc256255.ayypjb.cn/43.html^
-||apk.pufdqwaovm.com/bika-ova1a1bk?_v=2908835^
-||xc256255.ayypjb.cn/43.html^
-
-
 ##允许：
 @@||analytics.google.com
 @@||analytics.twitter.com
