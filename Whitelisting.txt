@@ -1,3 +1,21 @@
+## ||example.org^:阻止 example.org 域名及其所有子域名；
+## @@||example.org^:解除对 example.org 及其所有子域名的拦截；
+### 127.0.0.1 example.org:对 example.org（不包括它的子域名）以 127.0.0.1 作为响应；
+###  ! 这是一行注释。:只是一条注释；
+### # 这也是一行注释。:只是一条注释；
+#### /REGEX/:阻止访问与指定的正则表达式匹配的域名。
+
+
+#拦截：
+||kw87.me^
+||kw95.me^
+||lbtvydiyzb.com/slf-zjslf3368^
+||xc256255.ayypjb.cn/43.html^
+||apk.pufdqwaovm.com/bika-ova1a1bk?_v=2908835^
+||xc256255.ayypjb.cn/43.html^
+
+
+##允许：
 @@||analytics.google.com
 @@||analytics.twitter.com
 @@||azure.com^
