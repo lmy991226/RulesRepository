@@ -5,7 +5,7 @@
 ### # 这也是一行注释。:只是一条注释；
 #### /REGEX/:阻止访问与指定的正则表达式匹配的域名。
 
-##允许：
+## 允许：
 @@||analytics.google.com
 @@||analytics.twitter.com
 @@||azure.com^
